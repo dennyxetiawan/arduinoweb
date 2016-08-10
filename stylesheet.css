@@ -33,5 +33,5 @@ text-align:center;
 }
 a:link {color:white;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
-a:hover {color:black;}  /* mouse over link */
-a:active {color:red;} /* selected link */
+a:hover {color:gray;}  /* mouse over link */
+a:active {color:white;} /* selected link */
