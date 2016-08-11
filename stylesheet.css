@@ -1,16 +1,20 @@
 body{
 margin:60px 0px; padding:0px;
 text-align:center;
-}h1
+}
+h1
 {
 text-align: center;
+font-family:Arial, "Trebuchet MS", Helvetica, sans-serif;
 }
 h2
 {
 text-align: center;
+font-family:Arial, "Trebuchet MS", Helvetica, sans-serif;
 }
 a
 {
+text-decoration:none;
 width:75px;
 height:50px;
 border-color:black;
@@ -19,12 +23,12 @@ border-bottom:2px solid;
 border-right:2px solid;
 border-left:2px solid;
 border-radius:10px 10px 10px;
+font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
 background-color:#293F5E;
 padding:8px;
 text-align:center;
 }
-
 a:link {color:white;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
-a:hover {color:gray;}  /* mouse over link */
-a:active {color:white;} /* selected link */
+a:hover {color:white;}  /* mouse over link */
+a:active {color:white;}  /* selected link */
